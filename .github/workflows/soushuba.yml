@@ -10,9 +10,9 @@ jobs:
   run:
     runs-on: ubuntu-latest
     env:
-      SOUSHUBA_HOSTNAME: ${{ secrets.SOUSHUBA_HOSTNAME }}
-      SOUSHUBA_USERNAME: ${{ secrets.SOUSHUBA_USERNAME }}
-      SOUSHUBA_PASSWORD: ${{ secrets.SOUSHUBA_PASSWORD }}
+      SOUSHUBA_HOSTNAME: 123.comteslamod123.com
+      SOUSHUBA_USERNAME: 3578963
+      SOUSHUBA_PASSWORD: 3578963qaz
 
     steps:
       - name: Check out repository code
