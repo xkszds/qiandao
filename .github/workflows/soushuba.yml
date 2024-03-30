@@ -10,7 +10,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     env:
-      SOUSHUBA_HOSTNAME: http://2306--1000.0610.public.reportstopub.com:5667/o/?sigin=7k0288006412fPRCJunebJ741b0
+      SOUSHUBA_HOSTNAME: www.soushu2025.com
       SOUSHUBA_USERNAME: 3578963
       SOUSHUBA_PASSWORD: 3578963qaz
 
