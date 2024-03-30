@@ -10,7 +10,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     env:
-      SOUSHUBA_HOSTNAME: 123.comteslamod123.com
+      SOUSHUBA_HOSTNAME: https://123.comteslamod123.com/forum.php?mod=viewthread&tid=1132991&page=236#lastpost
       SOUSHUBA_USERNAME: 3578963
       SOUSHUBA_PASSWORD: 3578963qaz
 
